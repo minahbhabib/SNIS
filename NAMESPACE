@@ -1,4 +1,0 @@
-exportPattern("^[[:alpha:]]+")
-importFrom("stats", "complete.cases")
-importFrom("dplyr", "na_if")
-
